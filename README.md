@@ -54,7 +54,7 @@ Model probability-driven user systems
 
 Analyze loyalty, retention, and tier effects
 
-Visualize creator–viewer interaction dynamics
+Visualise creator/viewer interaction dynamics
 
 Think like a product scientist studying virality and engagement
 
@@ -68,6 +68,6 @@ Retention curves: 30-day return survival forecasts
 
 Simulation code: Clean, documented Python model
 
- Tech Stack
+Tech Stack
 
 Python, NumPy, Pandas, Seaborn, Matplotlib
